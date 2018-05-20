@@ -1,6 +1,7 @@
 # circle-math-api
 
 ### install
+this is a demo package for calculating circle math
 
 ```
 npm i circle-math-api --save
