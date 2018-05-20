@@ -2,4 +2,6 @@
 
 ## install
 
+```
 npm i circle-math-api --save
+```
