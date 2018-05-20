@@ -1,8 +1,9 @@
 # circle-math-api
 
-### install
 this is a demo package for calculating circle math
 
+
+### install
 ```
 npm i circle-math-api --save
 ```
